@@ -1,4 +1,5 @@
 from . import __version__ as app_version
+from shs_docs.fixtures import fill_fixtures
 
 app_name = "shs_docs"
 app_title = "SHS Docs"
@@ -8,6 +9,8 @@ app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "m.m@sihaysistema.com"
 app_license = "MIT"
+
+fixtures = fill_fixtures()
 
 # Includes in <head>
 # ------------------
