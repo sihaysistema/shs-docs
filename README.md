@@ -40,16 +40,16 @@ bench migrate && bench build
 ```
 
 ## Desinstalar apps
-> NOTA: Algunos campos puede quedar en base de datos esto no afectará al funcionamiento del ERP.
+> NOTA: Algunos campos pueden quedar en base de datos esto no afectará al funcionamiento del ERP.
 
 ```bash
-bench uninstall-app revelare
+bench uninstall-app wiki
 ```
 
 y
 
 ```bash
-bench remove-from-installed-apps revelare
+bench remove-from-installed-apps wiki
 ```
 
 #### License
