@@ -13,11 +13,11 @@ def fill_fixtures():
     }
 
     wiki_settings = {
-        "dt": "Wiki Settings"
+        "dt": "Wiki Sidebar"
     }
 
     wiki_sidebar = {
-        "dt": "Website Sidebar"
+        "dt": "Wiki Settings"
     }
 
     wiki_revision = {
