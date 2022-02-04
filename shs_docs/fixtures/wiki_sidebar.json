@@ -1,0 +1,76 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Wiki Sidebar",
+  "modified": "2022-02-03 15:36:05.183659",
+  "name": "wiki",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "route": "wiki",
+  "sidebar_items": [
+   {
+    "item": "Fac",
+    "parent": "wiki",
+    "parentfield": "sidebar_items",
+    "parenttype": "Wiki Sidebar",
+    "title": "Factura Electr\u00f3nica",
+    "type": "Wiki Sidebar"
+   }
+  ],
+  "title": "Wiki"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Wiki Sidebar",
+  "modified": "2022-02-03 18:54:36.305797",
+  "name": "Fac",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "route": "Fac",
+  "sidebar_items": [
+   {
+    "item": "factura-electronica/install",
+    "parent": "Fac",
+    "parentfield": "sidebar_items",
+    "parenttype": "Wiki Sidebar",
+    "title": "Instalaci\u00f3n",
+    "type": "Wiki Page"
+   },
+   {
+    "item": "factura-electronica/update",
+    "parent": "Fac",
+    "parentfield": "sidebar_items",
+    "parenttype": "Wiki Sidebar",
+    "title": "Actualizar",
+    "type": "Wiki Page"
+   },
+   {
+    "item": "factura-electronica/uninstall",
+    "parent": "Fac",
+    "parentfield": "sidebar_items",
+    "parenttype": "Wiki Sidebar",
+    "title": "Desinstalar",
+    "type": "Wiki Page"
+   },
+   {
+    "item": "factura-electronica/config-usuarios",
+    "parent": "Fac",
+    "parentfield": "sidebar_items",
+    "parenttype": "Wiki Sidebar",
+    "title": "Configurar Usuarios",
+    "type": "Wiki Page"
+   },
+   {
+    "item": "factura-electronica/general-config",
+    "parent": "Fac",
+    "parentfield": "sidebar_items",
+    "parenttype": "Wiki Sidebar",
+    "title": "Configuraciones Generales",
+    "type": "Wiki Page"
+   }
+  ],
+  "title": "Factura Electr\u00f3nica"
+ }
+]
