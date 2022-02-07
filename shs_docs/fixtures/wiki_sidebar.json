@@ -23,13 +23,21 @@
  {
   "docstatus": 0,
   "doctype": "Wiki Sidebar",
-  "modified": "2022-02-03 18:54:36.305797",
+  "modified": "2022-02-07 13:00:11.029800",
   "name": "Fac",
   "parent": null,
   "parentfield": null,
   "parenttype": null,
   "route": "Fac",
   "sidebar_items": [
+   {
+    "item": "factura-electronica/disclaimer",
+    "parent": "Fac",
+    "parentfield": "sidebar_items",
+    "parenttype": "Wiki Sidebar",
+    "title": "Disclaimer",
+    "type": "Wiki Page"
+   },
    {
     "item": "factura-electronica/install",
     "parent": "Fac",
@@ -68,6 +76,70 @@
     "parentfield": "sidebar_items",
     "parenttype": "Wiki Sidebar",
     "title": "Configuraciones Generales",
+    "type": "Wiki Page"
+   },
+   {
+    "item": "factura-electronica/app-config",
+    "parent": "Fac",
+    "parentfield": "sidebar_items",
+    "parenttype": "Wiki Sidebar",
+    "title": "Configurar App",
+    "type": "Wiki Page"
+   },
+   {
+    "item": "factura-electronica/sales-invoice-fel",
+    "parent": "Fac",
+    "parentfield": "sidebar_items",
+    "parenttype": "Wiki Sidebar",
+    "title": "Generar Factura Venta FEL",
+    "type": "Wiki Page"
+   },
+   {
+    "item": "factura-electronica/export-fel",
+    "parent": "Fac",
+    "parentfield": "sidebar_items",
+    "parenttype": "Wiki Sidebar",
+    "title": "Generar Factura Venta Exportaci\u00f3n FEL",
+    "type": "Wiki Page"
+   },
+   {
+    "item": "factura-electronica/credit-note-fel",
+    "parent": "Fac",
+    "parentfield": "sidebar_items",
+    "parenttype": "Wiki Sidebar",
+    "title": "Generar Nota De Cr\u00e9dito FEL",
+    "type": "Wiki Page"
+   },
+   {
+    "item": "factura-electronica/exchange-fel",
+    "parent": "Fac",
+    "parentfield": "sidebar_items",
+    "parenttype": "Wiki Sidebar",
+    "title": "Generar Factura Cambiaria FEL",
+    "type": "Wiki Page"
+   },
+   {
+    "item": "factura-electronica/debit-note-fel",
+    "parent": "Fac",
+    "parentfield": "sidebar_items",
+    "parenttype": "Wiki Sidebar",
+    "title": "Generar Nota De D\u00e9bito FEL",
+    "type": "Wiki Page"
+   },
+   {
+    "item": "factura-electronica/special-invoice-fel",
+    "parent": "Fac",
+    "parentfield": "sidebar_items",
+    "parenttype": "Wiki Sidebar",
+    "title": "Generar Factura Especial FEL",
+    "type": "Wiki Page"
+   },
+   {
+    "item": "factura-electronica/cancel-docs-fel",
+    "parent": "Fac",
+    "parentfield": "sidebar_items",
+    "parenttype": "Wiki Sidebar",
+    "title": "Anulaci\u00f3n Documentos FEL",
     "type": "Wiki Page"
    }
   ],
