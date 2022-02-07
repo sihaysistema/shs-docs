@@ -14,7 +14,7 @@ Documentación apps Si Hay Sistema
 **Obtén el app**
 
 ```bash
-bench get-app --branch shs-docs https://github.com/sihaysistema/wiki.git
+bench get-app --branch si-hay-docs https://github.com/sihaysistema/wiki.git
 ```
 
 **Instala**
