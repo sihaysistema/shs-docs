@@ -258,5 +258,18 @@
   "parenttype": null,
   "raised_by": null,
   "wiki_page": "factura-electronica/cancel-docs-fel"
+ },
+ {
+  "content": "# Adendas",
+  "docstatus": 0,
+  "doctype": "Wiki Page Revision",
+  "message": "Create Wiki Page",
+  "modified": "2022-03-17 15:33:24.590844",
+  "name": "07f977503d",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "raised_by": null,
+  "wiki_page": "factura-electronica/adendas"
  }
 ]

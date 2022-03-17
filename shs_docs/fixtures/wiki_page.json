@@ -194,5 +194,19 @@
   "published": 1,
   "route": "factura-electronica/cancel-docs-fel",
   "title": "Anulaci\u00f3n Documentos FEL"
+ },
+ {
+  "allow_guest": 1,
+  "content": "Informaci\u00f3n adicional de car\u00e1cter no tributario incluida en los DTE\n\n> Actualmente puede ser usada en Facturas de venta normal FEL y Notas de Credito\n\n## Como agregar una adenda?\nAl crear una Factura de Venta o Nota de Credito, encontrara una seccion llamada **adenda**\ncoloque alli el texto adicional que desee mostrar en su factura.\n\n> NOTA: Las adendas deben ser contratadas por aparte por medio de INFILE\n\n**Ejemplo**\n<img src=\"/assets/shs_docs/images/adendas.png\" alt=\"adenda\" />\n\nAl generar el documento electronico aparecera en su formato PDF",
+  "docstatus": 0,
+  "doctype": "Wiki Page",
+  "modified": "2022-03-17 15:38:27.484166",
+  "name": "factura-electronica/adendas",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "published": 1,
+  "route": "factura-electronica/adendas",
+  "title": "Adendas"
  }
 ]
